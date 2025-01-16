@@ -3,6 +3,15 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+We are Big Markus Co. LLC :tm: :registered:, a group of UCSC students creating a game as a part of our big senior capstone project.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### The team of executives consists of...
+Ethan Heffan - Producer \\
+Moore Macauley - Tech Lead \\
+Charlize Serrano - Art Lead \\
+Dylan Louie - Programmer \\
+Lo Weislak - Programmer \\
+Brian Feng - Programmer \\
+Igor Bessa - Programmer \\
+Arjun Krishnan - Programmer \\
+Michelle Tan - Artist 
