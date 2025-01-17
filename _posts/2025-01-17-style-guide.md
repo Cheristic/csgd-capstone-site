@@ -1,8 +1,6 @@
 ---
 title: "Code Style Guide"
 categories:
-  - Blog
-tags:
   - Internal
 ---
 
