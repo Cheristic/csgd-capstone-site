@@ -83,7 +83,7 @@ private void Awake()
 // Ctrl+K+C = comment, Ctrl+K+U = uncomment.
 // When you want a variable to be public, but not shown in the inspector window use 'internal'
 ```
-
+<br>
 # Unity File Structure
 ## Assets File Structure
 In order to keep our assets somewhat organized, we'll be following a fairly simple structure.  
