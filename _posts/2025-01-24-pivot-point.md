@@ -7,7 +7,7 @@ categories:
 ## Where do we go from here?
 **Sprint 1a is coming to a close** and the time is nigh to decide upon a game structure!! Our core souping mechanic has a lot of potential, but simultaneously has a lot of drawbacks, meaning whatever structure we decide to place it in must draw out as much of that potential as possible.
 
-Our team vote on what structure we like. This list is not exhaustive, but here are the options:
+Our team will vote on what structure we like. This list is not exhaustive, but here are the options:
 
 ***
 
