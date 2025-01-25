@@ -76,3 +76,17 @@ Our team will vote on what structure we like. This list is not exhaustive, but h
 
 > **SPECIFIC IDEAS**:
 > - Could connect via Steam accounts like Regis is doing.
+
+***
+
+### 4. Vampire Survivors-like
+> **DESCRIPTION:** 
+> - Walk around and auto-target enemies using your abilities.
+- Potential idea: Enemies drop ingredients, walk over to collect, during every periodic upgrade period, choose ingredients to combine to access new abilities.
+
+> **PROS:**
+> - Opportunity to focus almost exclusively on interesting ability mechanics
+- Environments are just different levels to choose so they can be entirely distinct (Castle, Hell's kitchen).
+
+> **CONS:**
+> - Must change the genre up in an interesting way
