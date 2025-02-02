@@ -85,12 +85,24 @@ private void Awake()
 ```
 <br>
 # Unity File Structure
-## Assets File Structure
-In order to keep our assets somewhat organized, we'll be following a fairly simple structure.  
-At the top layer, directly under assets, all of the folders will be the type of object the folder contains. IE, scripts, scenes, prefabs, etc. Inside of those folders, in our second layer, we will have another set of folders, for the place in the project they are used. For example, Enemies, Player, Abilities, etc. If these second layer folders become too unwieldy, we may add a further third level of specificity for types of those places, like a folder for an enemy type and so on.  
-As an example, if you had a script that was attached to a player, you would put it in Assets->Scripts->Player
-Or if you had a material that was going to be used for the ground in, say, level 2, you would put it in Assets->Materials->Levels (potentially -> Level2, if it was specific to level 2 and the level materials level was becoming too large).  
-If you're ever confused where something should go, shoot Moore a message.
+## NEW Assets File Structure
+
+We're going to take the previous file structure, but flip it. For example:
+```
+Assets
+    ↳ Enemies
+        ↳ RangedEnemy
+            ↳ Projectiles
+    ↳ Abilities
+        ↳ Fireball
+            ↳ FireballProjectile.cs
+```
+
+Essentially, rather than descending by file type, it's by context. Scripts, materials, prefabs, etc. will be placed in the context in which they're relevant for more intuitive retrieval. Rather than Scripts->Player, it's Player->Scripts. 
+
+If this gets confusing, we can change it, but seems like it'll work for now.
+
+
 ## Avoiding Merge Conflicts
 The exception to the above rule will be in Scenes, where some additional precautions have to be taken in order to avoid merge conflicts.  
 In Scenes, there are three folders, FinalScenes, PersonalScenes, and TestScenes, each of which have their own specifications 
@@ -104,3 +116,5 @@ In general, you shouldn't be making changes directly to any test scene. Every so
 ### Final Scenes
 The big exciting scenes that actually go into the game (hopefully). Most of the time, we won't really be working on these at all. If, for whatever reason, you are, make an announcement in the [\#status-update](https://discord.com/channels/1327076672138248222/1329920049061953728) channel on discord when you start and stop working on it, so that people know when they can and can't touch.  
 Please actually check things in and out, if you do a load of work on a main scene only for there to be a conflict because you forgot to check the scene out, you've got only yourself to blame. I will be similarly displeased if you go to bed without checking a scene back in, as no one else will be working on it until you wake up.
+
+
