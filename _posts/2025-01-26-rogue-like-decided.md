@@ -7,7 +7,7 @@ categories:
 ## YIPEE, A DECISION
 We've finally decided to make a rogue-like. Was not easy I mean look at the results of the voting:
 
-![structure vote](/assets/images/game-structure-vote.png)
+![structure vote](/csgd-capstone-site/assets/images/game-structure-vote.png)
 
 36-36 bruh. Since we were at a standstill, I asked my roommate and his CSGD alumni friend (two gamers mind you), and they leaned towards the Rogue-like idea. They said our soup mechanic plays very well into the established "synergetic abilities" mechanic seen in other Rogue-likes (Binding of Isaac, Slay the Spire, etc.), and would stand out in its emergent gameplay compared to other groups that are creating more linear experiences. It'll also be more challenging and impressive to do procedural generation so :shrug: better portfolio piece? Either way, I made the executive decision and we are making a Rogue-like. Yay.
 
