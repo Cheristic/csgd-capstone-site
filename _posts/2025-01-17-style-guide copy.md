@@ -73,8 +73,8 @@ public static SingletonName Singleton { get; private set; }
 
 private void Awake()
 {
-    if (Main != null && Main != this) Destroy(this);
-    else Main = this;
+    if (Singleton != null && Singleton != this) Destroy(this);
+    else Singleton = this;
 }
 ```
 
